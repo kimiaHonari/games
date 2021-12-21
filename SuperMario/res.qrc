@@ -1,0 +1,121 @@
+<RCC>
+    <qresource prefix="/mario_right">
+        <file>res/jump.png</file>
+        <file>res/still.png</file>
+        <file>res/walk.png</file>
+    </qresource>
+    <qresource prefix="/barrier">
+        <file>res/block.png</file>
+        <file>res/Brick.png</file>
+        <file>res/groundTop.png</file>
+        <file>res/pipe.png</file>
+    </qresource>
+    <qresource prefix="/env">
+        <file>res/airTile.png</file>
+        <file>res/cloud.png</file>
+    </qresource>
+    <qresource prefix="/question">
+        <file>res/Question block frames/1.png</file>
+        <file>res/Question block frames/2.png</file>
+        <file>res/Question block frames/3.png</file>
+        <file>res/Question block frames/4.png</file>
+        <file>res/Question block frames/5.png</file>
+        <file>res/Question block frames/6.png</file>
+        <file>res/Question block frames/7.png</file>
+        <file>res/Question block frames/8.png</file>
+        <file>res/Question block frames/9.png</file>
+        <file>res/Question block frames/10.png</file>
+        <file>res/Question block frames/11.png</file>
+        <file>res/Question block frames/12.png</file>
+        <file>res/Question block frames/13.png</file>
+        <file>res/Question block frames/14.png</file>
+        <file>res/Question block frames/15.png</file>
+        <file>res/Question block frames/16.png</file>
+        <file>res/Question block frames/17.png</file>
+        <file>res/Question block frames/18.png</file>
+        <file>res/Question block frames/19.png</file>
+        <file>res/Question block frames/20.png</file>
+        <file>res/Question block frames/21.png</file>
+        <file>res/Question block frames/22.png</file>
+        <file>res/Question block frames/23.png</file>
+        <file>res/Question block frames/24.png</file>
+        <file>res/Question block frames/25.png</file>
+        <file>res/Question block frames/26.png</file>
+        <file>res/Question block frames/27.png</file>
+        <file>res/Question block frames/empty block.png</file>
+    </qresource>
+    <qresource prefix="/coin">
+        <file>res/reward/coin/1.png</file>
+        <file>res/reward/coin/2.png</file>
+        <file>res/reward/coin/3.png</file>
+        <file>res/reward/coin/4.png</file>
+        <file>res/reward/coin/5.png</file>
+        <file>res/reward/coin/6.png</file>
+    </qresource>
+    <qresource prefix="/up">
+        <file>res/reward/up/1.png</file>
+        <file>res/reward/up/2.png</file>
+        <file>res/reward/up/3.png</file>
+        <file>res/reward/up/4.png</file>
+        <file>res/reward/up/5.png</file>
+        <file>res/reward/up/6.png</file>
+        <file>res/reward/up/7.png</file>
+        <file>res/reward/up/8.png</file>
+        <file>res/reward/up/9.png</file>
+        <file>res/reward/up/10.png</file>
+        <file>res/reward/up/11.png</file>
+        <file>res/reward/up/12.png</file>
+        <file>res/reward/up/13.png</file>
+        <file>res/reward/up/14.png</file>
+        <file>res/reward/up/15.png</file>
+        <file>res/reward/up/16.png</file>
+        <file>res/reward/up/17.png</file>
+    </qresource>
+    <qresource prefix="/flower">
+        <file>res/reward/flower/1.png</file>
+        <file>res/reward/flower/2.png</file>
+        <file>res/reward/flower/3.png</file>
+        <file>res/reward/flower/4.png</file>
+        <file>res/reward/flower/5.png</file>
+        <file>res/reward/flower/6.png</file>
+        <file>res/reward/flower/7.png</file>
+        <file>res/reward/flower/8.png</file>
+        <file>res/reward/flower/9.png</file>
+        <file>res/reward/flower/10.png</file>
+        <file>res/reward/flower/11.png</file>
+        <file>res/reward/flower/12.png</file>
+    </qresource>
+    <qresource prefix="/enemy">
+        <file>res/enemy/goomba/1.png</file>
+        <file>res/enemy/goomba/2.png</file>
+        <file>res/enemy/goomba/3.png</file>
+        <file>res/enemy/goomba/4.png</file>
+        <file>res/enemy/goomba/5.png</file>
+        <file>res/enemy/goomba/6.png</file>
+        <file>res/enemy/goomba/7.png</file>
+        <file>res/enemy/goomba/Death1.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>res/Sounds/jump.wav</file>
+    </qresource>
+    <qresource prefix="/mario_left">
+        <file>res/jump_left.png</file>
+        <file>res/still_left.png</file>
+        <file>res/walk_left.png</file>
+    </qresource>
+    <qresource prefix="/level">
+        <file>res/level/level1.txt</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>res/back1.jpg</file>
+        <file>res/gameover.jpg</file>
+        <file>res/win game.jpg</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>res/button/new game.jpg</file>
+        <file>res/button/exit.jpg</file>
+    </qresource>
+    <qresource prefix="/flag">
+        <file>res/flag.png</file>
+    </qresource>
+</RCC>
