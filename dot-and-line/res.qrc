@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>res/menu.jpg</file>
+        <file>res/newgame.png</file>
+        <file>res/exitgame.png</file>
+        <file>res/info.jpg</file>
+        <file>res/white.jpg</file>
+        <file>res/play1.jpg</file>
+        <file>res/gameboard.jpg</file>
+        <file>res/howtoplay.png</file>
+        <file>res/how.jpg</file>
+        <file>res/exit.jpg</file>
+        <file>res/mainmenu.jpg</file>
+        <file>res/point.jpg</file>
+    </qresource>
+</RCC>

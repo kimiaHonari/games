@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>board</class>
+ <widget class="QWidget" name="board">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>841</width>
+    <height>566</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="layoutDirection">
+   <enum>Qt::RightToLeft</enum>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image:url(&quot;:/back/res/menu.jpg&quot;);</string>
+  </property>
+  <widget class="QPushButton" name="newgame">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>141</y>
+     <width>201</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/back/res/newgame.png</normaloff>:/back/res/newgame.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>270</width>
+     <height>370</height>
+    </size>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="howtoplay">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>281</y>
+     <width>231</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/back/res/howtoplay.png</normaloff>:/back/res/howtoplay.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>280</width>
+     <height>390</height>
+    </size>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exitgame">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>422</y>
+     <width>211</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/back/res/exitgame.png</normaloff>:/back/res/exitgame.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>280</width>
+     <height>290</height>
+    </size>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
+ <connections/>
+</ui>
